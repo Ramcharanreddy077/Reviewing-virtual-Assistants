@@ -107,10 +107,3 @@ Feel free to fork the repository and submit a pull request.
 ##  License
 
 This project is open-source and free to use.
-
-## Project Highlights (For Resume)
-
-* Built an **AI-based evaluation system** using NLP
-* Integrated **transformer models for sentiment analysis**
-* Used **semantic similarity for response evaluation**
-* Developed an interactive UI using Streamlit
